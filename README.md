@@ -1,4 +1,4 @@
-# Deno time formatter app
+# Deno time formatting app
 
 ## Before running the scripts, please install Deno on your machine using one of the methods described in Deno documentation:
 https://deno.land/#installation
