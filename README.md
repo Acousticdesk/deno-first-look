@@ -11,4 +11,4 @@ run application
 run tests
 
 ### deno info ./main.ts
-list dependnencies
+list dependencies
